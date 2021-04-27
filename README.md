@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: deshmukhneel31@gmail.com or Twitter [@neeldeshmukhp](twitter.com/neeldeshmukhp)
 - 😄 Interests: programming, datascience and war strategies. 
 - 🌱 Mentors: Lord Krishna, Shivaji Maharaj.
-- 🚴🏽‍♀️  Fun fact: I love overthinking, talking about space exploration, Marvel <3
-[<img align="right" src="https://github.com/neel-desh/neel-desh/blob/main/icons/facebook.svg" width=16px height=32px/>](facebook.com/Neeldeshmukhpatil) [<img align="right" src="https://github.com/neel-desh/neel-desh/blob/main/icons/linkedin.svg" width=16px height=32px/>](linkedin.com/in/neeldeshmukh) [<img align="right" src="https://github.com/neel-desh/neel-desh/blob/main/icons/instagram.svg" width=16px height=32px/>](instagram.com/neeldeshmukhp/)
+- 🚴🏽‍♀️  Fun fact: I love overthinking, talking about space exploration, Marvel <3.
+- [Facebook>](facebook.com/Neeldeshmukhpatil) [LinkedIn](linkedin.com/in/neeldeshmukh) [Instagram](instagram.com/neeldeshmukhp/)

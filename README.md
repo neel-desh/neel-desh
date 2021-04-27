@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://github.com/neel-desh/neel-desh/blob/main/neeldeshmukh.png" alt="Illustration of Space Rocket, Space Travelling is Dream <3" width=350px height=465px/>
+<img align="right" src="https://github.com/neel-desh/neel-desh/blob/main/neeldeshmukh.svg" alt="Illustration of Space Rocket, Space Travelling is Dream <3" width=350px height=465px/>
 
   ## Hi, I'm Neel Deshmukh👋!
      I’m an Full Stack developer.

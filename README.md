@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 - 😄 Interests: programming, datascience and war strategies. 
 - 🌱 Mentors: Lord Krishna, Shivaji Maharaj.
 - 🚴🏽‍♀️  Fun fact: I love overthinking, talking about space exploration, Marvel <3
-- [<img align="right" src="https://github.com/neel-desh/neel-desh/blob/main/icons/facebook.svg" width=16px height=32px/>](facebook.com/Neeldeshmukhpatil) [<img align="right" src="https://github.com/neel-desh/neel-desh/blob/main/icons/linkedin.svg" width=16px height=32px/>](linkedin.com/in/neeldeshmukh) [<img align="right" src="https://github.com/neel-desh/neel-desh/blob/main/icons/instagram.svg" width=16px height=32px/>](instagram.com/neeldeshmukhp/)
+[<img align="right" src="https://github.com/neel-desh/neel-desh/blob/main/icons/facebook.svg" width=16px height=32px/>](facebook.com/Neeldeshmukhpatil) [<img align="right" src="https://github.com/neel-desh/neel-desh/blob/main/icons/linkedin.svg" width=16px height=32px/>](linkedin.com/in/neeldeshmukh) [<img align="right" src="https://github.com/neel-desh/neel-desh/blob/main/icons/instagram.svg" width=16px height=32px/>](instagram.com/neeldeshmukhp/)

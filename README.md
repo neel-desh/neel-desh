@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="right" src="https://github.com/neel-desh/neel-desh/blob/master/neeldeshmukh.PNG" alt="Illustration of Space Rocket, Space Travelling is Dream <3" width=350px height=465px/>
+
+### Hi, I'm Neel Deshmukh 👋
+
+I’m an Full Stack developer. 
+
+- 📱  I’m currently working on improving my problem solving skills.
+- 🤓 I’m currently learning MERN Stack.
+- 💬 Ask me about python, javascript and computer science.
+- 📫 How to reach me: deshmukhneel31@gmail.com or Twitter [@neeldeshmukhp](twitter.com/neeldeshmukhp)
+- 😄 Interests: programming, datascience and war strategies. 
+- 🚴🏽‍♀️  Fun fact: I love overthinking, talking about space exploration, Marvel <3

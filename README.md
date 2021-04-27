@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://github.com/neel-desh/neel-desh/blob/main/neeldeshmukh.png" alt="Illustration of Space Rocket, Space Travelling is Dream <3" width=350px height=465px/>
 
   ## Hi, I'm Neel Deshmukh👋!
-  ## I’m an Full Stack developer. 
+     I’m an Full Stack developer. 
 - 📱  I’m currently working on improving my problem solving skills.
 - 🤓 I’m currently learning MERN Stack.
 - 💬 Ask me about python, javascript and computer science.

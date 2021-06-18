@@ -21,7 +21,7 @@ Here are some ideas to get you started:
    I'm always ready to challenge myself and explore new areas of work.
    I never stop learning and for me, each new project is another adventure.
    
-- 📱  I’m currently working on improving my problem solving skills.
+- 📱  I’m currently working as Backend Engineer and Machine Learning Engineering at Cerebranium.
 - 🤓 I’m currently learning MERN Stack.
 - 💬 Ask me about python, javascript and computer science.
 - 📫 How to reach me: deshmukhneel31@gmail.com or Twitter [@neeldeshmukhp](twitter.com/neeldeshmukhp)

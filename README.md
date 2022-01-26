@@ -16,18 +16,18 @@ Here are some ideas to get you started:
 <img align="right" src="https://github.com/neel-desh/neel-desh/blob/main/neeldeshmukh.svg" alt="Illustration of Space Rocket, Space Travelling is Dream <3" width=350px height=465px/>
 
   ## Hi, I'm Neel Deshmukh👋!
-   I’m an Full Stack developer.
-   I'm passionate about Web/Android development.
+   Backend & Data Guy, You call me when API breaks and when you need data/information.
+   I'm passionate about Backend development & Love to take data driven decisions.
    I'm always ready to challenge myself and explore new areas of work.
    I never stop learning and for me, each new project is another adventure.
    
-- 📱  I’m currently working as Backend Engineer at Cerebranium.
-- 🤓 I’m currently learning MERN Stack.
-- 💬 Ask me about python, javascript and computer science.
+- 📱 I’m currently working as Backend Engineer at Cerebranium.
+- 🤓 I’m currently learning everything that comes under backend and data.
+- 💬 Ask me about javascript/typescript and computer science.
 - 📫 How to reach me: deshmukhneel31@gmail.com or Twitter [@neeldeshmukhp](twitter.com/neeldeshmukhp)
-- 😄 Interests: programming, datascience and war strategies. 
-- 🌱 Mentors: Lord Krishna, Shivaji Maharaj.
-- 🚴🏽‍♀️  Fun fact: I love overthinking, talking about space exploration, Marvel <3.
+- 😄 Interests: programming, data and war strategies. 
+- 🌱 Mentors: Hussein Nasser(Esri), Omkar Pimple(Cerebranium), Piyush Verma(Last9).
+- 🚴🏽‍♀️ Fun fact: I love overthinking, talking about space exploration, Marvel <3.
 - [Facebook](https://www.facebook.com/Neeldeshmukhpatil) | [LinkedIn](https://www.linkedin.com/in/neeldeshmukh) | [Instagram](https://www.instagram.com/neeldeshmukhp/)
 
 # Github Stats

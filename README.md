@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 🚴🏽‍♀️  Fun fact: I love overthinking, talking about space exploration, Marvel <3.
 - [Facebook](https://www.facebook.com/Neeldeshmukhpatil) | [LinkedIn](https://www.linkedin.com/in/neeldeshmukh) | [Instagram](https://www.instagram.com/neeldeshmukhp/)
 
-#Github Stats
-<a href="https://github-readme-stats.vercel.app/api?username=neel-desh&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-  <img src="https://github-readme-stats.vercel.app/api?username=neel-desh&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
+# Github Stats
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=neel-desh&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+

@@ -19,7 +19,6 @@ Here are some ideas to get you started:
    Backend & Data Guy, You call me when API breaks and when you need data/information.
    I'm passionate about Backend development & Love to take data driven decisions.
    I'm always ready to challenge myself and explore new areas of work.
-   I never stop learning and for me, each new project is another adventure.
    
 - 📱 I’m currently working as Backend Engineer at Cerebranium.
 - 🤓 I’m currently learning everything that comes under backend and data.

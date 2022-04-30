@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://github.com/neel-desh/neel-desh/blob/main/neeldeshmukh.svg" alt="Illustration of Space Rocket, Space Travelling is Dream <3" width=350px height=465px/>
 
   ## Hi, I'm Neel Deshmukh👋!
+   TDD, Agile & XP.
    Backend & Data Guy, You call me when API breaks and when you need data/information.
    I'm passionate about Backend development & Love to take data driven decisions.
    I'm always ready to challenge myself and explore new areas of work.
@@ -25,8 +26,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about javascript/typescript and computer science.
 - 📫 How to reach me: deshmukhneel31@gmail.com or Twitter [@neeldeshmukhp](twitter.com/neeldeshmukhp)
 - 😄 Interests: programming, data and war strategies. 
-- 🌱 Mentors: Hussein Nasser(Esri), Omkar Pimple(Cerebranium), Piyush Verma(Last9).
-- 🚴🏽‍♀️ Fun fact: I love overthinking, talking about space exploration, Marvel <3.
+- 🌱 Mentors: Omkar Pimple(Cerebranium), Devansh Timbadia (Cerebranium).
+- 🚴🏽‍♀️ Fun fact: I love overthinking, talking about space exploration, Marvel <3, Star Wars.
 - [Facebook](https://www.facebook.com/Neeldeshmukhpatil) | [LinkedIn](https://www.linkedin.com/in/neeldeshmukh) | [Instagram](https://www.instagram.com/neeldeshmukhp/)
 
 # Github Stats

@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about javascript/typescript and computer science.
 - 📫 How to reach me: deshmukhneel31@gmail.com or Twitter [@neeldeshmukhp](twitter.com/neeldeshmukhp)
 - 😄 Interests: programming, data and war strategies. 
-- 🌱 Mentors: Omkar Pimple(Cerebranium), Devansh Timbadia (Cerebranium).
 - 🚴🏽‍♀️ Fun fact: I love overthinking, talking about space exploration, Marvel <3, Star Wars.
 - [Facebook](https://www.facebook.com/Neeldeshmukhpatil) | [LinkedIn](https://www.linkedin.com/in/neeldeshmukh) | [Instagram](https://www.instagram.com/neeldeshmukhp/)
 

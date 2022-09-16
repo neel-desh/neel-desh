@@ -21,7 +21,7 @@ Here are some ideas to get you started:
    I'm passionate about Backend development & Love to take data driven decisions.
    I'm always ready to challenge myself and explore new areas of work.
    
-- 📱 I’m currently working as Backend Engineer at Cerebranium.
+- 📱 I’m currently working as Backend Engineer at MarketPulse .
 - 🤓 I’m currently learning everything that comes under backend and data.
 - 💬 Ask me about javascript/typescript and computer science.
 - 📫 How to reach me: deshmukhneel31@gmail.com or Twitter [@neeldeshmukhp](twitter.com/neeldeshmukhp)

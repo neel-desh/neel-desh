@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 -->
 
   ## Hi, I'm Neel
-  I code in elixir & thats the greatest thing ever. 
-   
+  A fellow developer from Mumbai. I code in elixir & thats the greatest thing ever. Other than that, I love coding for solutions and I try to keep learning new things.
+
 - Breaking things at [Punch](https://punch.trade).
+- Currently Learning: neovim (ill be so cool) | writing (to write quality docs) | Boxing (so i can punch Qa's and devs)
 - My [LinkedIn](https://www.linkedin.com/in/neeldeshmukh) if you want to connect. or email me at biz@neeldeshmukh.com
 

@@ -17,6 +17,6 @@ Here are some ideas to get you started:
   A fellow developer from Mumbai. I write go & elixir. Neovim BTW, Other than that, I love coding for solutions and I try to keep learning new things.
 
 - Breaking things at [Punch](https://punch.trade).
-- My Tools: Nvim | Claude | Git | GO/Elixir/Phoenix/Ecto/Postgres/Redis/MCP/LLMs | Kanata (homerow mods) | Aerospace | Mouseless
+- My Tools: Nvim | Claude | Git | Golang/Elixir/Phoenix/Ecto/Postgres/Redis/MCP/LLMs | Kanata (homerow mods) | Aerospace | Mouseless
 - My [LinkedIn](https://www.linkedin.com/in/neeldeshmukh) if you want to connect.
 
